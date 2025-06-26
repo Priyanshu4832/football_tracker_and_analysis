@@ -12,6 +12,9 @@ A computer vision pipeline that automatically tracks players, identifies teams, 
   - Ball possession indicators
   - Real-time control percentage statistics
 
+## Output Examples
+![Sample Output](img/output_img.png)
+
 ## Technical Implementation
 ### Core Components
 1. **Detection & Tracking**
@@ -30,5 +33,4 @@ A computer vision pipeline that automatically tracks players, identifies teams, 
    - Temporal smoothing to reduce flickering
 
 
-## Output Examples
-![Sample Output](img/output_img.png)
+
