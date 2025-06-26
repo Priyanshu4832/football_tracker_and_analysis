@@ -1,5 +1,3 @@
-# football_tracker_and_analysis
-
 # Football Tracking Analytics System
 
 ## Project Overview
